@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: genderdiversity.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Gender Equity & Media Pluralism
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nis
