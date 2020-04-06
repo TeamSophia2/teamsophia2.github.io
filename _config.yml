@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: https://teamsophia2.github.io/
+title: Team Sophia2
+email: mvernier@inf.uach.cl
+author: Matthieu Vernier
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -27,9 +27,9 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/MatthieuVernier
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/teamsophia2
   - title: linkedin
     url: 
 
